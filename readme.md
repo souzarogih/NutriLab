@@ -16,6 +16,9 @@
 ### Comando para executar o projeto na IDE
 `python.exe manage.py runserver`
 
+### URL de acesso local
+`http://127.0.0.1:8000/auth/cadastro/`
+
 ## License
 >Enviar um e-mail para _higor.andrade@hotmail.com_ com o nome do projeto no título do 
 > e-mail, solicitando o uso deste projeto.
